@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/redaphid/serial-data-over-audio#readme",
   "dependencies": {
-    "baudio": "^2.1.2"
+    "baudio": "^2.1.2",
+    "uuid": "^2.0.1"
   }
 }
